@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto Mono', monospace ,sans-serif;
+    min-height: 400px;
+    background-color: #00000057;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+section.medidor-media{
+    background-color: #ebf0ad;
+    border: 2px dashed rgb(0, 0, 0); 
+    width: 500px;
+    height: 500px;
+   margin: auto;
+   margin-top: 60px;
+   box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+
+
+
+ 
+section input{
+   
+   margin-top: 10px;
+}
